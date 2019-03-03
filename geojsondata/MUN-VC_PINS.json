@@ -1,0 +1,593 @@
+{
+  "features": [
+      {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trujillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.390756,
+          4.24106
+        ],
+        "type": "Point"
+      },
+      "id": "20085b59bf0e912c3bf1a2cfa5159021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Calima"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.56432,
+          3.963087
+        ],
+        "type": "Point"
+      },
+      "id": "2275c199fe5c6e95de1bc0b4be9e7c4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Toro"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.068511,
+          4.664472
+        ],
+        "type": "Point"
+      },
+      "id": "256c24a47fd6a07450da6ff20305dc33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Candelaria"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.410957,
+          3.396514
+        ],
+        "type": "Point"
+      },
+      "id": "28ab0671f8498661a6c2fdc06673a7ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Palmira"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.287117,
+          3.5437
+        ],
+        "type": "Point"
+      },
+      "id": "29207b40d78560ee562badf4ff11aaab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ulloa"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.800515,
+          4.721905
+        ],
+        "type": "Point"
+      },
+      "id": "42155f484872539c6c32231769b77ca5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Pedro"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.241597,
+          3.99935
+        ],
+        "type": "Point"
+      },
+      "id": "43ce33b52063ad917fb20418a4e8217a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bugalagrande"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.117523,
+          4.215368
+        ],
+        "type": "Point"
+      },
+      "id": "45566528fa66db34301802f16d0d3697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Obando"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.944441,
+          4.619989
+        ],
+        "type": "Point"
+      },
+      "id": "49fe26fd9c9be8b7ffda4fbe02bf4774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ginebra"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.204245,
+          3.756727
+        ],
+        "type": "Point"
+      },
+      "id": "4b02b1c64b058a4ce9564e5112aa2759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "La Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.945428,
+          4.493929
+        ],
+        "type": "Point"
+      },
+      "id": "4c5450379f127b6e73c19f40bd0a80e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Versalles"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.211441,
+          4.638682
+        ],
+        "type": "Point"
+      },
+      "id": "4e300de06614e9d01e1961c6b22b267f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "La Union"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.084366,
+          4.549742
+        ],
+        "type": "Point"
+      },
+      "id": "4ebeac40f302bd7833b59a7a3087a2f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pradera"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.248333,
+          3.419271
+        ],
+        "type": "Point"
+      },
+      "id": "5637dfe4ed0191d67769e25407116219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rold"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.165563,
+          4.436961
+        ],
+        "type": "Point"
+      },
+      "id": "56b30c386c692bd654725b631255ed64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Zarzal"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.037293,
+          4.397821
+        ],
+        "type": "Point"
+      },
+      "id": "5713a0922e0f43b3502866cd3a5aa76e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jamundi"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.654631,
+          3.219633
+        ],
+        "type": "Point"
+      },
+      "id": "5fda3fe74f80e3bde80984bec88ff01d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Argelia"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.132421,
+          4.72523
+        ],
+        "type": "Point"
+      },
+      "id": "60b8c5ae91f3be9e032d28104338aa01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "El Águila"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.056852,
+          4.940382
+        ],
+        "type": "Point"
+      },
+      "id": "64da4027888cf5e2ca33b9c51946618a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alcalá"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.775062,
+          4.670426
+        ],
+        "type": "Point"
+      },
+      "id": "6f8d0925ea2933339a1076dcefc85698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Caicedonia"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.826114,
+          4.331554
+        ],
+        "type": "Point"
+      },
+      "id": "785e1db4ad63d96d62363f0a3027408a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "El Cerrito"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.328562,
+          3.653967
+        ],
+        "type": "Point"
+      },
+      "id": "7eef4346c68b16a1a0166261eb7d1c15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dagua"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.740177,
+          3.659694
+        ],
+        "type": "Point"
+      },
+      "id": "846553ba4bde87d7692fd3e54edbafd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tulua"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.078541,
+          4.033988
+        ],
+        "type": "Point"
+      },
+      "id": "89088c06f5ec77e57a274c340a911a50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cali"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.592287,
+          3.439073
+        ],
+        "type": "Point"
+      },
+      "id": "89bc7a8318e289a1ba30f00f595e05ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buenaventura"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.084745,
+          3.60234
+        ],
+        "type": "Point"
+      },
+      "id": "8f08570b301e252e41303c2ddb521c3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cartago"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.92511,
+          4.739446
+        ],
+        "type": "Point"
+      },
+      "id": "8f331acd481715fb27559a3d3014ba04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vijes"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.489925,
+          3.737415
+        ],
+        "type": "Point"
+      },
+      "id": "923c5ab8eaceb783c866b96c8ac78225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "El Dovio"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.274749,
+          4.552669
+        ],
+        "type": "Point"
+      },
+      "id": "ae716c7f6bf17bf7e109018d28ab0623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ansermanuevo"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.994276,
+          4.829877
+        ],
+        "type": "Point"
+      },
+      "id": "b761ac65d8e1e9f8d7b9a53f65ed8672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Restrepo"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.573831,
+          3.82092
+        ],
+        "type": "Point"
+      },
+      "id": "bb414fd9c0c7d61a8061b570ac3ed629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "El Cairo"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.208229,
+          4.768103
+        ],
+        "type": "Point"
+      },
+      "id": "c598544b47f401b9b1f8a50d78d55708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yumbo"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.533264,
+          3.586463
+        ],
+        "type": "Point"
+      },
+      "id": "caff92b7eb2f8e4d5ad9d1a85ca0c159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buga"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.172809,
+          3.883845
+        ],
+        "type": "Point"
+      },
+      "id": "cc87019fccd0a22a9fa51563e68e1ab5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sevilla"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.940144,
+          4.256243
+        ],
+        "type": "Point"
+      },
+      "id": "d14f24eefa0c5833ea7cf512afde4791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Andalucia"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.205276,
+          4.169833
+        ],
+        "type": "Point"
+      },
+      "id": "d5b2dacdd8800310948aa4d65ac4361c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Florida"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.231837,
+          3.318328
+        ],
+        "type": "Point"
+      },
+      "id": "d98d8edc1ece1cb3e3bba11b7d83c8df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "La Cumbre"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.607266,
+          3.692666
+        ],
+        "type": "Point"
+      },
+      "id": "dacb68fd48d4f5e68917458e4964c141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riofrío"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.403639,
+          4.127735
+        ],
+        "type": "Point"
+      },
+      "id": "dd526a51712181f4c02613425622f50b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Guacarí"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.352053,
+          3.773221
+        ],
+        "type": "Point"
+      },
+      "id": "e3049d29725a603d3e8a2dfb7ec1e83d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yotoco"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.415475,
+          3.885723
+        ],
+        "type": "Point"
+      },
+      "id": "e345ef521c26fcf87c71e1077e3ff574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bolivar"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.372143,
+          4.391591
+        ],
+        "type": "Point"
+      },
+      "id": "f45629b6abf050dfcddee7933e0432fc"
+    }
+    ],
+  "type": "FeatureCollection"
+}
